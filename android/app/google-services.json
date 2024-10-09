@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "841662623075",
+    "project_id": "placement-19f7d",
+    "storage_bucket": "placement-19f7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841662623075:android:bf68e27428c1828b9e7756",
+        "android_client_info": {
+          "package_name": "com.atees.placement_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYwnFWjy3CvF6lXpwl5vTfOKk49mAl9gI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
